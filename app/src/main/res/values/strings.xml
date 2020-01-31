@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">NCov2020</string>
+    <string name="title_home">疫情</string>
+    <string name="title_dashboard">工具</string>
+    <string name="title_notifications">关于</string>
+
+    <string name="pu_gong_yin"><a href="https://sendtion.cn">蒲公英</a></string>
+    <string name="fir_im"><a href="https://sendtion.cn">fir.im</a></string>
+    <string name="lan_zou_yun"><a href="https://sendtion.cn">蓝奏云</a></string>
+    <string name="bai_du_yun"><a href="https://sendtion.cn">百度网盘</a></string>
+    <string name="app_download_url"><a href="https://sendtion.cn/?p=666">点我下载</a></string>
+
+    <string-array name="data1">
+        <item>丁香医生版</item>
+        <item>腾讯新闻版</item>
+        <item>网易新闻版</item>
+        <item>新浪新闻版</item>
+        <item>百度APP版</item>
+        <item>夸克AI版</item>
+        <item>每日经济版</item>
+        <item>好医生版</item>
+        <item>第一财经版</item>
+        <item>山月版</item>
+        <item>梅斯版</item>
+    </string-array>
+
+    <string-array name="data2">
+        <item>https://3g.dxy.cn/newh5/view/pneumonia</item>
+        <item>https://news.qq.com/zt2020/page/feiyan.htm</item>
+        <item>http://news.163.com/special/epidemic</item>
+        <item>https://news.sina.cn/zt_d/yiqing0121</item>
+        <item>https://voice.baidu.com/act/newpneumonia/newpneumonia</item>
+        <item>https://broccoli.uc.cn/apps/pneumonia/routes/index</item>
+        <item>http://www.nbd.com.cn/corp/20200121guanzhuangbidu/index.html</item>
+        <item>http://shibao.haoyisheng.com</item>
+        <item>https://m.yicai.com/news/100476965.html</item>
+        <item>https://ncov.shanyue.tech</item>
+        <item>http://m.medsci.cn/wh.asp</item>
+    </string-array>
+</resources>
